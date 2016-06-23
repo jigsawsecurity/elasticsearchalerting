@@ -1,7 +1,7 @@
 # Copyright Notice: All code included is copyright by Kevin Wetzel, Jigsaw Security Enterprise Inc or SLC Security Services LLC
 # All Rights Reserved
 
-EXTERNAL VDSIPP.DLL,751118615004|ISP Toolz
+EXTERNAL VDSIPP.DLL,REDACTED
 #DEFINE COMMAND, INTERNET
 #DEFINE FUNCTION, INTERNET
 
