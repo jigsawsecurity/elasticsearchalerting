@@ -1,7 +1,7 @@
 # Elasticsearch Keyword Matches - Reports to Email
 A stand alone utility to query Elasticsearch and send email reports of keyword matches contained in the strings file. This utility was created to provide a way to send a report hourly on matches to terms that you want to be alerted to in your logs or ES indices. 
 
-![screenshot][https://github.com/jigsawsecurity/elasticsearchalerting/blob/master/ESA.PNG]
+![Screenshot](https://github.com/jigsawsecurity/elasticsearchalerting/blob/master/ESA.PNG?raw=true "Screenshot")
 
 ##Getting Started
 
