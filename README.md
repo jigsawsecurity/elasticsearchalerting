@@ -24,7 +24,7 @@ To get started you must edit the server.ini file. This file contains information
 
 - mailto - This is the email account to send the report in form user@domain.com
 
-#Configuring the Search terms
+##Configuring the Search terms
 To configure the search terms edit the strings.txt file. You should only enter the term you want to search without spaces and no special characters. 
 
 This utility is open source and the source code is included in the package file. Utility was written by Kevin Wetzel for Jigsaw Security. A commercial version and support is available at www.jigsaw-security.com. 
